@@ -25,6 +25,7 @@ string decimalToBinary(int decimal) // calculation for decimal to binary
     return binary;
 }
 // I have added the  the converting from binary to decimal  code
+// I have added the  the converting from binary to decimal  code
 int binaryToDecimal(string binary) {// calculation for binary to decimal
     int decimal = 0;
     int power = 1;
