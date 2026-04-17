@@ -43,7 +43,7 @@ int binaryToDecimal(string binary) {// calculation for binary to decimal
 }
 
 
-
+// added a the code that makes the option interface where someone has to choose
 int main()
 {
     cout << "Conversion Menu:" << endl;      // creating a menu input and output
