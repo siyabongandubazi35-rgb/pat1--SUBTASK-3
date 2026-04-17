@@ -48,7 +48,7 @@ int binaryToDecimal(string binary) {// calculation for binary to decimal
 int main()
 {
     cout << "Conversion Menu:" << endl;      // creating a menu input and output
-    cout << "1. Decimal to Binary" << endl;
+    cout << "1. Decimal to Binary" << endl;  //code for the display
     cout << "2. Binary to Decimal" << endl;
     cout << "Enter your choice (1 or 2): ";
     cin >> choice;
