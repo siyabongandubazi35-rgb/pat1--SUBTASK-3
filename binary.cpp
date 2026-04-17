@@ -64,7 +64,7 @@ int main()
         cout << "Decimal representation: " << binaryToDecimal(binaryNum) << endl;
     }
     else {
-        cout << "Invalid choice!" << endl;
+        cout << "Invalid choice!" << endl; // terminate program if rhe number is invalid
     }
 
     return 0;
