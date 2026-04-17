@@ -1,7 +1,7 @@
 #include <iostream>
 
 //Ndubazi siyabonga
-//
+// calling global variables
 using namespace std;
 // calling global variables
 int decimalNum;
